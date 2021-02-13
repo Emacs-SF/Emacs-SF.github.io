@@ -18,16 +18,15 @@
 &lt;h3 id=&#34;what-s-new&#34;&gt;What&amp;rsquo;s new&lt;/h3&gt;
 &lt;p&gt;As part of updating the Emacs-SF github organization&amp;rsquo;s meetup-notes repository:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;I&amp;rsquo;ve enabled the Discussions tab there, and the wiki pages are now publicly editable.&lt;/li&gt;
-&lt;li&gt;I&amp;rsquo;ve also created the Emacs-SF.github.io repository for publishing the blog.&lt;/li&gt;
-&lt;li&gt;I&amp;rsquo;ve created the ox-hugo-blog-content repository for the actual org files that&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;ve enabled the &lt;a href=&#34;https://github.com/Emacs-SF/meetup-notes/discussions&#34;&gt;Discussions tab&lt;/a&gt; there, and the &lt;a href=&#34;https://github.com/Emacs-SF/meetup-notes/wiki&#34;&gt;Wiki pages&lt;/a&gt; are now publicly editable.&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;ve also created the &lt;a href=&#34;https://github.com/Emacs-SF/Emacs-SF.github.io&#34;&gt;Emacs-SF.github.io repository&lt;/a&gt; for publishing this blog.&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;ve created the &lt;a href=&#34;https://github.com/Emacs-SF/Emacs-SF.github.io&#34;&gt;ox-hugo-blog-content repository&lt;/a&gt; for the actual org files that the blog posts are generated from.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;the blog posts are generated from.&lt;/p&gt;
 &lt;h3 id=&#34;in-progress&#34;&gt;In progress&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;customizing the site; adding a sidebar with categories/tags&lt;/li&gt;
 &lt;li&gt;adding meta content&lt;/li&gt;
-&lt;li&gt;linking to meeting notes&lt;/li&gt;
+&lt;li&gt;linking to &lt;a href=&#34;https://github.com/Emacs-SF/meetup-notes&#34;&gt;meeting notes&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

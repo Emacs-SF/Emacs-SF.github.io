@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Emacs SF Blog</title>
+    <link>http://Emacs-SF.github.io/posts/</link>
+    <description>Recent content in Posts on Emacs SF Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Feb 2021 00:00:00 -0800</lastBuildDate>
+    <atom:link href="http://Emacs-SF.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Welcome</title>
+      <link>http://Emacs-SF.github.io/posts/welcome/</link>
+      <pubDate>Sat, 13 Feb 2021 00:00:00 -0800</pubDate>
+      <guid>http://Emacs-SF.github.io/posts/welcome/</guid>
+      <description>&lt;h2 id=&#34;welcome&#34;&gt;Welcome&lt;/h2&gt;
+&lt;h3 id=&#34;what-s-new&#34;&gt;What&amp;rsquo;s new&lt;/h3&gt;
+&lt;p&gt;As part of updating the Emacs-SF github organization&amp;rsquo;s meetup-notes repository:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I&amp;rsquo;ve enabled the Discussions tab there, and the wiki pages are now publicly editable.&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;ve also created the Emacs-SF.github.io repository for publishing the blog.&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;ve created the ox-hugo-blog-content repository for the actual org files that&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;the blog posts are generated from.&lt;/p&gt;
+&lt;h3 id=&#34;in-progress&#34;&gt;In progress&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;customizing the site; adding a sidebar with categories/tags&lt;/li&gt;
+&lt;li&gt;adding meta content&lt;/li&gt;
+&lt;li&gt;linking to meeting notes&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -68,7 +68,7 @@ and I am preparing to publish videos on our &lt;a href=&#34;https://www.youtube.
 &lt;p&gt;Thanks to Sacha Chua and Leo Vivier for their help with video recording, post-processing, and subtitles (and inspiration).&lt;/p&gt;
 &lt;h3 id=&#34;in-progress&#34;&gt;In Progress&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;still need to add &lt;a href=&#34;http://localhost:1313/categories/&#34;&gt;categories&lt;/a&gt; and &lt;a href=&#34;http://localhost:1313/tags/&#34;&gt;tags&lt;/a&gt; to the sidebar, read-more links, etc. to this blog&lt;/li&gt;
+&lt;li&gt;still need to add &lt;a href=&#34;https://emacs-sf.github.io/categories&#34;&gt;categories&lt;/a&gt; and &lt;a href=&#34;https://emacs-sf.github.io/tags/&#34;&gt;tags&lt;/a&gt; to the sidebar, read-more links, etc. to this blog&lt;/li&gt;
 &lt;li&gt;editing subtitles on recorded demo videos, publishing videos publicly on Emacs SF YouTube channel&lt;/li&gt;
 &lt;li&gt;adding gists, snippets, presentations&lt;/li&gt;
 &lt;li&gt;documenting blog workflow for guest authors&lt;/li&gt;

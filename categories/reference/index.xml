@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Emacs SF Blog</title>
-    <link>http://Emacs-SF.github.io/</link>
-    <description>Recent content on Emacs SF Blog</description>
+    <title>reference on Emacs SF Blog</title>
+    <link>http://Emacs-SF.github.io/categories/reference/</link>
+    <description>Recent content in reference on Emacs SF Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 19 Mar 2021 00:00:00 -0700</lastBuildDate>
-    <atom:link href="http://Emacs-SF.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://Emacs-SF.github.io/categories/reference/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Links</title>
@@ -57,28 +57,6 @@
 &lt;li&gt;adding gists, snippets, presentations&lt;/li&gt;
 &lt;li&gt;documenting blog workflow for guest authors&lt;/li&gt;
 &lt;li&gt;add About page&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Welcome</title>
-      <link>http://Emacs-SF.github.io/posts/welcome/</link>
-      <pubDate>Sat, 13 Feb 2021 00:00:00 -0800</pubDate>
-      <guid>http://Emacs-SF.github.io/posts/welcome/</guid>
-      <description>&lt;h2 id=&#34;welcome&#34;&gt;Welcome&lt;/h2&gt;
-&lt;h3 id=&#34;what-s-new&#34;&gt;What&amp;rsquo;s new&lt;/h3&gt;
-&lt;p&gt;As part of updating the Emacs-SF github organization&amp;rsquo;s meetup-notes repository:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;I&amp;rsquo;ve enabled the &lt;a href=&#34;https://github.com/Emacs-SF/meetup-notes/discussions&#34;&gt;Discussions tab&lt;/a&gt; there, and the &lt;a href=&#34;https://github.com/Emacs-SF/meetup-notes/wiki&#34;&gt;Wiki pages&lt;/a&gt; are now publicly editable.&lt;/li&gt;
-&lt;li&gt;I&amp;rsquo;ve also created the &lt;a href=&#34;https://github.com/Emacs-SF/Emacs-SF.github.io&#34;&gt;Emacs-SF.github.io repository&lt;/a&gt; for publishing this blog.&lt;/li&gt;
-&lt;li&gt;I&amp;rsquo;ve created the &lt;a href=&#34;https://github.com/Emacs-SF/Emacs-SF.github.io&#34;&gt;ox-hugo-blog-content repository&lt;/a&gt; for the actual org files that the blog posts are generated from.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;in-progress&#34;&gt;In progress&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;customizing the site; adding a sidebar with categories/tags&lt;/li&gt;
-&lt;li&gt;adding meta content&lt;/li&gt;
-&lt;li&gt;linking to &lt;a href=&#34;https://github.com/Emacs-SF/meetup-notes&#34;&gt;meeting notes&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

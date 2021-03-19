@@ -6,8 +6,60 @@
     <description>Recent content in Posts on Emacs SF Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Feb 2021 00:00:00 -0800</lastBuildDate>
+    <lastBuildDate>Fri, 19 Mar 2021 00:00:00 -0700</lastBuildDate>
     <atom:link href="http://Emacs-SF.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Links</title>
+      <link>http://Emacs-SF.github.io/posts/links/</link>
+      <pubDate>Fri, 19 Mar 2021 00:00:00 -0700</pubDate>
+      <guid>http://Emacs-SF.github.io/posts/links/</guid>
+      <description>&lt;h2 id=&#34;emacs-sf-links&#34;&gt;Emacs SF Links&lt;/h2&gt;
+&lt;p&gt;[Announcing updated content, navigation links, thanks for video help, and work in progress]&lt;/p&gt;
+&lt;h3 id=&#34;updates&#34;&gt;Updates&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;I&amp;rsquo;ve updated some recent meeting notes on github, the &lt;a href=&#34;https://github.com/Emacs-SF/meetup-notes/wiki/Backlog&#34;&gt;backlog&lt;/a&gt; and &lt;a href=&#34;https://github.com/Emacs-SF/meetup-notes/wiki/Upcoming-events&#34;&gt;coming events&lt;/a&gt; on our wiki, and am preparing to publish videos on youtube.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;new/updated meeting notes&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/Emacs-SF/meetup-notes/blob/master/meetups/2021/20210305.org&#34;&gt;5 March 2021&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/Emacs-SF/meetup-notes/blob/master/meetups/2021/20210212.org&#34;&gt;12 February 2021&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/Emacs-SF/meetup-notes/blob/master/meetups/2021/20210127.org&#34;&gt;27 January 2021&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;starting-points&#34;&gt;Starting Points&lt;/h3&gt;
+&lt;p&gt;Some useful links (now available in the footer of our wiki pages) are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://emacs-sf.github.io/&#34;&gt;this blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Emacs-SF/meetup-notes/discussions&#34;&gt;discussions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Emacs-SF&#34;&gt;github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Emacs-SF/meetup-notes&#34;&gt;meeting notes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.meetup.com/Emacs-SF/&#34;&gt;meetup.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCFk8kgNu%5FbqsRZewxMGqkzQ&#34;&gt;youtube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;thanks&#34;&gt;Thanks&lt;/h3&gt;
+&lt;p&gt;Thanks to Sacna Chua and Leo Vivier for their help with video recording, post-processing, and subtitles (and inspiration).&lt;/p&gt;
+&lt;h3 id=&#34;in-progress&#34;&gt;In Progress&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;still need to add &lt;a href=&#34;http://localhost:1313/categories/&#34;&gt;categories&lt;/a&gt; and &lt;a href=&#34;http://localhost:1313/tags/&#34;&gt;tags&lt;/a&gt; to the sidebar, read-more links, etc. to this blog&lt;/li&gt;
+&lt;li&gt;editing subtitles on recorded demo videos, publishing videos publicly on Emacs SF YouTube channel&lt;/li&gt;
+&lt;li&gt;adding gists, snippets, presentations&lt;/li&gt;
+&lt;li&gt;documenting blog workflow for guest authors&lt;/li&gt;
+&lt;li&gt;add About page&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Welcome</title>

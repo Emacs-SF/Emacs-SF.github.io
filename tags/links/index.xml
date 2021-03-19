@@ -16,9 +16,21 @@
       <guid>http://Emacs-SF.github.io/posts/links/</guid>
       <description>&lt;h2 id=&#34;emacs-sf-links&#34;&gt;Emacs SF Links&lt;/h2&gt;
 &lt;p&gt;[Announcing updated content, navigation links, thanks for video help, and work in progress]&lt;/p&gt;
+&lt;h3 id=&#34;announcements&#34;&gt;Announcements&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Our &lt;a href=&#34;https://www.meetup.com/Emacs-SF/events/276954899&#34;&gt;next scheduled meetup&lt;/a&gt; is on Thursday 1 April 2021 at 10:00am PDT UTC-7&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;post-covid-19-plans&#34;&gt;Post COVID-19 Plans&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Jeff is interested in resuming the face-to-face evening meetups (with formal presentations recorded) in San Francisco and Silicon Valley&lt;/li&gt;
+&lt;li&gt;Jeff and Mike are interested in resuming the face-to-face weekend meetups (informal discussion groups) in San Francisco, Oakland, and Walnut Creek.&lt;/li&gt;
+&lt;li&gt;Jeff and Mike are interested in continuing virtual/online meetups on weekday mornings (and possibly evenings) with recorded demos, lightning talks, and general discussions.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3 id=&#34;updates&#34;&gt;Updates&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;I&amp;rsquo;ve updated some recent meeting notes on github, the &lt;a href=&#34;https://github.com/Emacs-SF/meetup-notes/wiki/Backlog&#34;&gt;backlog&lt;/a&gt; and &lt;a href=&#34;https://github.com/Emacs-SF/meetup-notes/wiki/Upcoming-events&#34;&gt;coming events&lt;/a&gt; on our wiki, and am preparing to publish videos on youtube.&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;ve updated some recent meeting notes on &lt;a href=&#34;https://github.com/Emacs-SF&#34;&gt;github&lt;/a&gt; (see below),
+the &lt;a href=&#34;https://github.com/Emacs-SF/meetup-notes/wiki/Backlog&#34;&gt;backlog&lt;/a&gt; and &lt;a href=&#34;https://github.com/Emacs-SF/meetup-notes/wiki/Upcoming-events&#34;&gt;upcoming events&lt;/a&gt; on our &lt;a href=&#34;https://github.com/Emacs-SF/meetup-notes/wiki&#34;&gt;wiki&lt;/a&gt;,
+and I am preparing to publish videos on our &lt;a href=&#34;https://www.youtube.com/channel/UCFk8kgNu%5FbqsRZewxMGqkzQ&#34;&gt;YouTube channel&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -27,6 +39,9 @@
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/Emacs-SF/meetup-notes/blob/master/meetups/2021/20210319.org&#34;&gt;19 March 2021&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/Emacs-SF/meetup-notes/blob/master/meetups/2021/20210305.org&#34;&gt;5 March 2021&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -46,10 +61,11 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/Emacs-SF&#34;&gt;github&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/Emacs-SF/meetup-notes&#34;&gt;meeting notes&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.meetup.com/Emacs-SF/&#34;&gt;meetup.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Emacs-SF/meetup-notes/wiki&#34;&gt;wiki&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCFk8kgNu%5FbqsRZewxMGqkzQ&#34;&gt;youtube&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;thanks&#34;&gt;Thanks&lt;/h3&gt;
-&lt;p&gt;Thanks to Sacna Chua and Leo Vivier for their help with video recording, post-processing, and subtitles (and inspiration).&lt;/p&gt;
+&lt;p&gt;Thanks to Sacha Chua and Leo Vivier for their help with video recording, post-processing, and subtitles (and inspiration).&lt;/p&gt;
 &lt;h3 id=&#34;in-progress&#34;&gt;In Progress&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;still need to add &lt;a href=&#34;http://localhost:1313/categories/&#34;&gt;categories&lt;/a&gt; and &lt;a href=&#34;http://localhost:1313/tags/&#34;&gt;tags&lt;/a&gt; to the sidebar, read-more links, etc. to this blog&lt;/li&gt;
@@ -58,6 +74,7 @@
 &lt;li&gt;documenting blog workflow for guest authors&lt;/li&gt;
 &lt;li&gt;add About page&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;I plan to update this post when the above in-progress tasks are completed.&lt;/p&gt;
 </description>
     </item>
     
